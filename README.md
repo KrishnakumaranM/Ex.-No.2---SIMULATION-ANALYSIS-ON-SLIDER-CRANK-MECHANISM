@@ -39,9 +39,10 @@
 
 ## Output
 ### MechAnalyzer Graph 
-![MechAnalyzer](MechAnalyzer.png)
+
+![image](https://github.com/user-attachments/assets/ee906ec7-0b60-47c8-a73c-dd16c8601350)
 ### VAD, IC and SFA module
-![VAD, IC and SFA module](<VAD, IC and SFA module.png>)
+![WhatsApp Image 2025-04-22 at 16 03 22_eb403ba6](https://github.com/user-attachments/assets/adcba2ef-1beb-4ec4-9e0e-02248628eff2)
 ### Name: M KRISHNA KUMARAN
 ### Register Number: 212224110033
 
